@@ -1,3 +1,3 @@
 # eCommerce_project
 <br>
-This is my first repo project
+This is my 1st project
